@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **NathanTurnYT/NathanTurnYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Welcome to Guff Glitches' official GitHub!
+
+### My coding languages are :
+Python <img src="https://user-images.githubusercontent.com/65986892/124967891-f0cd5400-dff2-11eb-8deb-71a1b8e2a0c4.png" width="20">
+
+LOLCODE (Trying to at least) <img src="https://user-images.githubusercontent.com/65986892/124967958-0cd0f580-dff3-11eb-9331-5fbf1763ca1e.png" width="20">

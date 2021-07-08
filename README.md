@@ -24,5 +24,4 @@ LOLCODE (Trying to at least) <img src="https://user-images.githubusercontent.com
 
 ## Subscribe to me on YouTube!
 
-<script src="https://apis.google.com/js/platform.js">
-<div class="g-ytsubscribe" data-channelid="UCiHMcYxx4OoYFaC9vYIL8HQ" data-layout="full" data-theme="dark" data-count="default">
+https://www.youtube.com/channel/UCiHMcYxx4OoYFaC9vYIL8HQ

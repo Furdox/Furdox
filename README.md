@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Welcome to Furdox's official GitHub!
 
 ### My coding languages are :
-None since I stopped learning, however, I make scratch games! [Scatch Profile](http://tiny.cc/guffcat)
+~~None since I stopped learning~~ learning C#!, however, I make scratch games! [Scatch Profile](http://tiny.cc/guffcat)
 
 #
 

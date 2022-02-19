@@ -32,3 +32,8 @@ Here are some ideas to get you started:
 # **Check out most of my links!**
 
 [Here](http://tiny.cc/po)
+
+
+#### random thing
+
+![yes](https://cdn.discordapp.com/attachments/944058950016462878/944573255136739428/Poof_Be_Gone_Emote.mp4)

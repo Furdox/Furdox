@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 #### random thing
 <video controls loop>
   <source src="https://cdn.discordapp.com/attachments/944058950016462878/944573255136739428/Poof_Be_Gone_Emote.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+  Your browser does not support the video tag. Go to https://cdn.discordapp.com/attachments/944058950016462878/944573255136739428/Poof_Be_Gone_Emote.mp4
 </video>

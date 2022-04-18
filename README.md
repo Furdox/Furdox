@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 ## Discord profile / status
 
 ![fat fetish boy](https://discord.c99.nl/widget/theme-1/670459646284398615.png)
+![penguin acc](https://discord.c99.nl/widget/theme-1/670459646284398615.png)
 
-#
 
 ## Subscribe to me on YouTube!
 

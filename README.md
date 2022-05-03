@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 # Welcome to Furdox's official GitHub!
 
 ### My coding languages are :
-~~None since I stopped learning~~ learning C#!, however, I make scratch games! [Scratch Profile](http://tiny.cc/guffcat)
+~~None since I stopped learning~~ Learning C#!, however, I make Scratch games! [Scratch Profile](http://tiny.cc/guffcat)
 
 ## Discord profile / status
 
-![fat fetish boy](https://discord.c99.nl/widget/theme-1/670459646284398615.png)
+![fat fetish boy](https://discord.c99.nl/widget/theme-2/670459646284398615.png)
 
-![penguin acc](https://discord.c99.nl/widget/theme-1/724699209168715887.png)
+![penguin acc](https://discord.c99.nl/widget/theme-2/724699209168715887.png)
 
 
 ## Subscribe to me on YouTube!

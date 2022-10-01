@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 💁‍♀️ Me when your mom ...
 -->
 
-(will change pfp when I get access to my original SAR pfp image.)
-
 # Welcome to Furdox's official GitHub!
 
 ### My coding languages are :

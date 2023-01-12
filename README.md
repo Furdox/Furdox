@@ -17,7 +17,14 @@ Here are some ideas to get you started:
 # Welcome to Furdox's official GitHub!
 
 ### My coding languages are :
-~~None since I stopped learning~~ Learning C#!, however, I make Scratch games! [Scratch Profile](http://tiny.cc/guffcat)
+None since I stopped learning. However, I make Scratch games! [Scratch Profile](http://tiny.cc/guffcat)
+
+
+# **Check out my website!**
+
+[Here](http://tiny.cc/po)
+
+
 
 ## Discord profile / status
 
@@ -29,7 +36,3 @@ Here are some ideas to get you started:
 ## Subscribe to me on YouTube!
 
 [Here](http://tiny.cc/furdoxyt)
-
-# **Check out my website!**
-
-[Here](http://tiny.cc/po)

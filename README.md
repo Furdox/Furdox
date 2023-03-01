@@ -15,14 +15,15 @@ Here are some ideas to get you started:
 -->
 
 # Welcome to Furdox's official GitHub!
-
+・ω・
+<!-- cwinge. also, it's wierd the coding state I'm in rn...
 ### My coding languages are :
 None since I stopped learning. However, I make Scratch games! [Scratch Profile](http://tiny.cc/guffcat)
-
+-->
 
 # **Check out my website!**
-
-[Here](http://tiny.cc/po)
+<!-- THIS IS A GRABIFY LINK, REAL LINK IS http://furdox.tk/-->
+[Here](http://tiny.cc/furweb)
 
 
 

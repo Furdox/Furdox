@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 💁‍♀️ Me when your mom ...
 -->
 
-# Welcome to Furdox's official GitHub!
+# Welcome to Furdox's official GitHub Profile!
 ・ω・
 <!-- cwinge. also, it's wierd the coding state I'm in rn...
 ### My coding languages are :
@@ -23,8 +23,8 @@ None since I stopped learning. However, I make Scratch games! [Scratch Profile](
 
 # **Check out my website!**
 <!-- THIS IS A GRABIFY LINK, REAL LINK IS http://furdox.tk/-->
-[Here](http://tiny.cc/furweb)
-
+#### [Here](http://tiny.cc/furweb)
+(or check out the [source](http://github.com/Furdox/furdox.github.io))
 
 
 ## Discord profile / status

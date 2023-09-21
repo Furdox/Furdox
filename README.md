@@ -29,7 +29,7 @@ None since I stopped learning. However, I make Scratch games! [Scratch Profile](
 
 ## Discord profile / status
 
-![boyo that wants beeg thighs](https://discord.c99.nl/widget/theme-2/670459646284398615.png)
+![boyo that wants massive thighs](https://discord.c99.nl/widget/theme-2/670459646284398615.png)
 
 ![penguin acc](https://discord.c99.nl/widget/theme-2/724699209168715887.png)
 

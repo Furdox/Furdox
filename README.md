@@ -29,7 +29,7 @@ None since I stopped learning. However, I make Scratch games! [Scratch Profile](
 
 ## Discord profile / status
 
-![fat fetish boy](https://discord.c99.nl/widget/theme-2/670459646284398615.png)
+![boyo that wants beeg thighs](https://discord.c99.nl/widget/theme-2/670459646284398615.png)
 
 ![penguin acc](https://discord.c99.nl/widget/theme-2/724699209168715887.png)
 
@@ -37,3 +37,8 @@ None since I stopped learning. However, I make Scratch games! [Scratch Profile](
 ## Subscribe to me on YouTube!
 
 [Here](http://tiny.cc/furdoxyt)
+
+
+## owo
+
+![R3@Iity5can text](https://raw.githubusercontent.com/Furdox/furdox.github.io/95001dfe473d2743077e6b0f8bcb1400e8fbc8e3/oldwebsite/website/secret/S%C3%A9lection_133.png)

@@ -35,6 +35,7 @@ None since I stopped learning. However, I make Scratch games! [Scratch Profile](
 
 ![penguin acc](https://discord.c99.nl/widget/theme-2/724699209168715887.png)
 
+### Notable contributions (WIP)
 
 ### Subscribe to me on YouTube!
 

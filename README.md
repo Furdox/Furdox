@@ -37,6 +37,8 @@ None since I stopped learning. However, I make Scratch games! [Scratch Profile](
 
 ### Notable contributions (WIP)
 
+https://github.com/ppy/osu-wiki/pull/7948
+
 ### Subscribe to me on YouTube!
 
 [Here](http://tiny.cc/furdoxyt)

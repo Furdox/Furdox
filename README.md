@@ -37,8 +37,13 @@ None since I stopped learning. However, I make Scratch games! [Scratch Profile](
 
 ### Notable contributions (WIP) (I've done a lot of PRs but not much important)
 
+
+
 https://github.com/ppy/osu-wiki/pull/7948
+
 https://github.com/PMunch/i3ColourChanger/pull/4
+
+
 
 ### Subscribe to me on YouTube!
 

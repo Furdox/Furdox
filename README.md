@@ -41,6 +41,10 @@ None since I stopped learning. However, I make Scratch games! [Scratch Profile](
 
 https://github.com/ppy/osu-wiki/pull/7948
 
+https://github.com/Sudomemo/sudomemo-locales/pull/561
+
+https://github.com/Sudomemo/sudomemo-locales/pull/557
+
 https://github.com/PMunch/i3ColourChanger/pull/4
 
 
